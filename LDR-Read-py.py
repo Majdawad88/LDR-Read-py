@@ -1,4 +1,4 @@
-#git clone 
+#git clone https://github.com/Majdawad88/LDR-Read-py.git
 
 import serial
 import csv
